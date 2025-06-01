@@ -12,6 +12,6 @@
 * Playerctl
 * bc
 
-## License
+    ## License
 
 Licensed under the MIT license.
