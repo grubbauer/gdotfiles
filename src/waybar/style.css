@@ -1,0 +1,123 @@
+* {
+	border: none;
+	font-family: VecTerminus20;
+	font-size: 20px;
+}
+
+window#waybar {
+  background: #292c35;
+  border: 3px solid #88c0d0;
+	border-radius: 4px;
+  color: #d8dee9;
+	background: #292c35;
+}
+
+#custom-power {
+	border: 2px solid #81a1c1;
+	border-radius: 4px;
+
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+
+	background: #2e3440;
+
+	transition: background 0.3s ease, transform 0.2s ease;
+}
+
+#custom-power:hover {
+	background: #3b4252;
+}
+
+menu {
+	border: 2px solid #81a1c1;
+	background: #3b4252;
+	font-weight: bold;
+}
+
+#clock {
+	border: 2px solid #81a1c1;
+	border-radius: 4px;
+	
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+
+	background: #2e3440;
+
+	transition: background 0.3s ease, transform 0.2s ease;
+}
+
+#clock:hover {
+	background: #3b4252;
+}
+
+#workspaces {
+	border: 2px solid #81a1c1;
+	border-radius: 4px;
+
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 1px;
+	margin-right: 1px;
+
+	background: #2e3440;
+}
+
+#workspaces button:hover {
+	color: #d8dee9;
+	background: #3b4252;
+}
+
+#custom-spotify {
+	border: 2px solid #81a1c1;
+	border-radius: 4px;
+
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+
+	background: #2e3440;
+}
+
+#custom-volume {
+	border: 2px solid #81a1c1;
+	border-radius: 4px;
+
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+
+	background: #2e3440;
+}
+
+
