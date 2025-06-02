@@ -18,4 +18,4 @@
 
 Licensed under the MIT license.
 
-[SCREENSHOT_LINK]: https://raw.githubusercontent.com/grubbauer/gdotfiles/master/img/desktop.png
+[SCREENSHOT_LINK]: https://raw.githubusercontent.com/kallorn/gdotfiles/master/img/desktop.png
