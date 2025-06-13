@@ -2,5 +2,5 @@
 
 artist=$(playerctl --player=spotify metadata artist)
 title=$(playerctl --player=spotify metadata title)
-echo "$artist -- $title"
+echo "$title -- $artist"
 
